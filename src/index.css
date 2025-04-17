@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+    min-height: 100svh;
+    width: 100%;
+    font-family: sans-serif;
+    background-color: #f1f1f1;
+    font-family: "Raleway", sans-serif;
+}
