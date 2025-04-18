@@ -18,7 +18,7 @@ function Card1({ capa, titulo, data, descricao }: ICard1) {
                         <a className="text-gray-500 text-justify">{data}</a>
                     </p>
                     <p className="descricao ">{descricao}</p>
-                    <div className="flex flex-row justify-between md:mt-[20px] p-2">
+                    <div className="flex flex-row justify-between md:mt-[5px] p-2">
                         <button className="ml-2 border-[1px] w-[40%] border-gray-400 p-2 font-mono cursor-pointer hover:bg-gray-300 hover:border-none md:w-[20%]">
                             READ MORE
                         </button>
