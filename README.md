@@ -7,7 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-5.0.0-brown)
 ![License](https://img.shields.io/badge/LICENSE-MIT-yellow)
 
-Este projeto é uma página moderna, rápida e responsiva, ideal para compartilhar ideias e conteúdos diversos. Ele conta com um template de blog minimalista, perfeito para quem valoriza simplicidade com elegância.
+Este projeto é uma página moderna e responsiva, ideal para compartilhar ideias e conteúdos diversos. Ele conta com um template de blog minimalista, perfeito para quem valoriza simplicidade com elegância.
 
 </div>
 
