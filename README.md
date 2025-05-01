@@ -25,6 +25,7 @@ Você pode acessar a página <a href="https://my-blog-rho-navy-76.vercel.app/">a
 ## Imagens
 
 ![tela1](tela1.png)
+<br> <br>
 ![tela2](tela2.png)
 
 ## Credítos
