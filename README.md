@@ -1,4 +1,5 @@
-<div align="center>
+<div align="center">
+  
 # My Blog
 
 ![React](https://img.shields.io/badge/REACT-19.0.0-indigo)
@@ -7,6 +8,7 @@
 ![License](https://img.shields.io/badge/LICENSE-MIT-yellow)
 
 Este projeto é uma página moderna, rápida e responsiva, ideal para compartilhar ideias e conteúdos diversos. Ele conta com um template de blog minimalista, perfeito para quem valoriza simplicidade com elegância.
+
 </div>
 
 ## Tecnologias
