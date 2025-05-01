@@ -3,9 +3,10 @@ interface ICard1 {
     titulo: string;
     data: string;
     descricao: string;
+    comentario: string;
 }
 
-function Card1({ capa, titulo, data, descricao }: ICard1) {
+function Card1({ capa, titulo, data, descricao, comentario }: ICard1) {
     return (
         <>
             <div className="flex flex-col gap-2 bg-white border-1 border-gray-200">
@@ -24,8 +25,8 @@ function Card1({ capa, titulo, data, descricao }: ICard1) {
                         </button>
                         <div className="md:flex md:flex-row md:gap-4 hidden md:justify-center md:items-center">
                             <p>Comments</p>
-                            <p className="bg-black text-white flex flex-row justify-center items-center text-center w-[20px]">
-                                0
+                            <p className="comentario bg-black text-white flex flex-row justify-center items-center text-center w-[20px]">
+                                {comentario}
                             </p>
                         </div>
                     </div>
